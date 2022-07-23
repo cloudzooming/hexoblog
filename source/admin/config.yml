@@ -2,7 +2,7 @@ backend:
   name: github
   repo: cloudzooming/hexoblog # Path to your Github/Gitlab repository
   branch: main # Branch to update
-  base_url: https://cloudzooming.github.io/hexoblog/
+  base_url: https://hexoblog-phi.vercel.app/
 
 # These lines should *not* be indented
 media_folder: 'source/images' # Media files will be stored in the repo under source/images
